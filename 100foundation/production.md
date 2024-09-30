@@ -10,7 +10,7 @@ Users can now register with the following domains: **me.com** and **icloud.com.*
 
 2. Then navigate down and select the checkbox labeled **Allow personal email addresses.**
 
-   ![](./img/01.png)
+   ![](./img/02.png)
 
 3. Click on the **Submit** button.
 
