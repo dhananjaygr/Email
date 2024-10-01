@@ -2,7 +2,7 @@
 
 ### Overview
 
-Users can now register for the lab with the following domains: **me.com and icloud.com.**
+Users can now register for the lab with the following domains: **me.com** and **icloud.com.**
 
 ### Prerequisites
 
