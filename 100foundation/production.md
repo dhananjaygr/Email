@@ -14,7 +14,7 @@ Users can now register for the lab with the following domains: **me.com** and **
 
 1. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the ODL section.
 
-2. Navigate to the necessary ODL and select the **edit (1)** option.
+2. Navigate to the necessary ODL and select the **edit (1)** button.
 
    ![](./img/01.png)
 
