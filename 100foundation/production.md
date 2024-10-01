@@ -1,18 +1,30 @@
 # Personal email consideration in tenant level
 
-Users can now register with the following domains: **me.com** and **icloud.com.**
+### Overview
 
->**Note:** To allow personal email consideration, follow the steps below:
+Users can now register for the lab with the following domains: **me.com and icloud.com.**
 
-1. Navigate to the necessary tenant and select the **edit (1)** option.
+### Prerequisites
+
+- Before allowing personal email consideration in the ODL, ensure you have the following prerequisites:
+  
+  Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access is unavailable, kindly reach out to your point of contact or [CloudLabs Support](https://docs.cloudlabs.ai/RequestSupport)).
+
+  >**Note:** To allow personal email consideration, follow the steps below:
+
+### Allowing Personal email consideration
+
+1. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the ODL section.
+
+2. Navigate to the necessary ODL and select the **edit (1)** option.
 
    ![](./img/01.png)
 
-2. Then navigate down and select the checkbox labeled **Allow personal email addresses.**
+3. Then navigate down and select the checkbox labeled **Allow personal email addresses.**
 
    ![](./img/02.png)
 
-3. Click on the **Submit** button.
+4. Click on the **Submit** button.
 
    ![](./img/03.png)
 
