@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+slug: /LabDeveloper/AddingAWSTemplate
+---
 # Personal email consideration in tenant level
 
 ### Overview
