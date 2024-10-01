@@ -10,8 +10,6 @@ Users can now register for the lab with the following domains: **me.com** and **
   
   Admin access to [CloudLabs Admin Portal](https://admin.cloudlabs.ai/) (If access is unavailable, kindly reach out to your point of contact or [CloudLabs Support](https://docs.cloudlabs.ai/RequestSupport)).
 
-  >**Note:** To allow personal email consideration, follow the steps below:
-
 ### Allowing Personal email consideration
 
 1. Log in to the CL portal and navigate to the required tenant (WIZ). On the left-hand side of the page, you will see the ODL section.
